@@ -9,7 +9,7 @@
 import UIKit
 
 @IBDesignable
-open class CheckboxButton: UIControl {
+open class CheckboxButton: UIButton {
     // MARK: Public properties
     
     /// Line width for the check mark. Default value is 2.
